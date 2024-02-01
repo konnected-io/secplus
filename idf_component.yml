@@ -1,0 +1,5 @@
+dependencies:
+  idf:
+    version: '>=4.0'
+description: 'secplus'
+url: https://github.com/konnected-io/secplus
